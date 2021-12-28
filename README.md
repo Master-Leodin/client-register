@@ -1,2 +1,4 @@
 # client-register
-My project from my python study
+My demo project from my python study.
+All by me to show what I know to get
+some job or freelancer jobs.
