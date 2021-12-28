@@ -1,5 +1,4 @@
-from modulo import lista, final
+from modulo import menu
 
-lista()
-final()
+menu()
 print("To register more persons, use the main file.\n")
